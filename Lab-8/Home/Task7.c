@@ -50,7 +50,7 @@ int main() {
     }
 
 
-    printf("\nResultant Matrix (A × B):\n");
+    printf("\nResultant Matrix (A x B):\n");
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             printf("%d\t", result[i][j]);
