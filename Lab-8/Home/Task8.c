@@ -1,9 +1,3 @@
-// // Task 8: Analyze Matrix Elements — Count Even, Odd, Positive, Negative, and Zeros
-// In this task, input a 3×3 matrix and analyze its elements. Count and display the number of even
-// and odd elements as well as the number of positive, negative, and zero elements. This exercise
-// helps you practice multiple conditional checks within nested loops and improves your
-// understanding of how to categorize matrix elements efficiently.
-
 #include <stdio.h>
 
 int main(){
