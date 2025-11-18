@@ -10,5 +10,5 @@ int recursive_sum(int n){
 }
 
 int main(){
-    printf("%d",recursive_sum(3452));
+    printf("%d",recursive_sum(43872));
 }
